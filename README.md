@@ -116,3 +116,4 @@ MainWindow (WPF)
             → Stored Procedures → SQL Server
 ```
 # practica02
+# practica02
